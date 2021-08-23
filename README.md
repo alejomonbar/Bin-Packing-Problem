@@ -1,10 +1,10 @@
 # Bin-Packing-Problem
 
-The bin packing problem is an optimization problem where given a number of items with a respective weight, we look at the best arrangement of the items to minimize the number of bins or containers needed. The restriction, in this case, is the capacity of the bins which cannot surpass a certain weight. This problem has many real applications in areas as loading trucks with weight restriction, filling up containers, and FPGA semiconductors chip desing. 
+The bin packing problem is an optimization problem where given a number of items with a respective weight, we look at the best arrangement of the items to minimize the number of bins or containers needed. The restriction, in this case, is the capacity of the bins which cannot surpass a certain weight. This problem has many real applications in areas as loading trucks with a weight restriction, filling up containers, and FPGA semiconductors chip design. 
 
-In terms of complexity, the bin packing problem is a NP-hard problem. However, there are efficient algortihms that allows the arrange of large number of items. One of them is the first fit, which provides a fast but not optimal solution of the problem. 
+In terms of complexity, the bin packing problem is an NP-hard problem. However, there are efficient algorithms that allow the arrangement of a large number of items. One of them is the first fit, which provides a fast but not optimal solution to the problem. 
 
-In this tutorial, we will explore the solution of the bin packing problem, using a quantum computing representation in terms of quaratic unconstraint binary optimizatio (QUBO) and using the quantum approximation optimization (QAOA) algorithm. 
+In this tutorial, we will explore the solution of the bin packing problem, using a quantum computing representation in terms of quadratic unconstraint binary optimization (QUBO) and using the quantum approximation optimization (QAOA) algorithm. 
 
 ## 1. Problem statement
 
