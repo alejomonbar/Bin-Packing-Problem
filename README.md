@@ -22,6 +22,6 @@ subject to:
 
 - n is the number of items
 - m is the number of bins
-- <img src="https://render.githubusercontent.com/render/math?math=w_j"> is the j-th item weight
-- <img src="https://render.githubusercontent.com/render/math?math=\chi_i"> is i-th bin
+- <img src="https://render.githubusercontent.com/render/math?math=w_j"> is the jth item weight
+- <img src="https://render.githubusercontent.com/render/math?math=\chi_i"> is ith bin
 - <img src="https://render.githubusercontent.com/render/math?math=\xi_{ij}"> is the variable that represent if the item j is in the bin i.
